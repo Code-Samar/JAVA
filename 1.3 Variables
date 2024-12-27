@@ -1,0 +1,9 @@
+public class Variables {
+    public static void main(String[] args) {
+        int age = 25;       // Integer variable
+        double price = 99.99; // Double variable
+        String name = "John"; // String variable
+
+        System.out.println("Name: " + name + ", Age: " + age + ", Price: " + price);
+    }
+}
